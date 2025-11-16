@@ -62,11 +62,18 @@ Next debian will ask where the package manager should download its packages from
 Easy firewall
 
 #downlaod ufw
+
 sudo apt install ufw
+
 sudo ufw allow [your port]
+
 sudo ufw enable
+
 sudo systemctl enable --now ufw
 
 #check status
+
 sudo ufw status numbered
+
 #delete ipv6 if you dont use it
+
