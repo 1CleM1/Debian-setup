@@ -56,3 +56,17 @@ Next debian will ask where the package manager should download its packages from
   Choose your own country or one close by.
 
 ...
+
+
+
+Easy firewall
+
+#downlaod ufw
+sudo apt install ufw
+sudo ufw allow [your port]
+sudo ufw enable
+sudo systemctl enable --now ufw
+
+#check status
+sudo ufw status numbered
+#delete ipv6 if you dont use it
