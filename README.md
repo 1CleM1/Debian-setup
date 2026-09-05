@@ -15,7 +15,8 @@ Built from reused parts I had lying around, the notable parts would be
  - i7-6700k
  - 16 gb ddr4 ram
  - 4 tb RED NAS drive
- - rest just whatever I had :)
+ - rest was just some random, psu, motherboard, case.
+ - also had a gtx 970 on hand, but would just increase my cost for no upside. 
 
 | | |
 |---|---|
