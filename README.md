@@ -332,8 +332,9 @@ ssh homelab
 
 ## Notes / things I'd do differently
 
-- Looking at replacing the self-built i7-6700K box with something smaller and quieter —
+- Looking at replacing the self-built i7-6700K box with something smaller, quieter and much more cost effective —
   a Lenovo ThinkCentre or similar small-office machine.
+  a immich image share, for me and family members.
 
 <!-- Add to this as you go. This section tends to become the most useful part of a
      setup guide, because it's the only bit that isn't in the official docs. -->
